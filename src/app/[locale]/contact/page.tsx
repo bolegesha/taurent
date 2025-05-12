@@ -29,7 +29,7 @@ export default async function ContactPage({
                   <p className="text-sm text-gray-500">
                     {locale === 'en' ? 'Email' : 'Email'}
                   </p>
-                  <p className="font-medium">info@taurent.kz</p>
+                  <p className="font-medium">a_yerlanuly@kbtu.kz</p>
                 </div>
               </div>
               
@@ -39,7 +39,7 @@ export default async function ContactPage({
                   <p className="text-sm text-gray-500">
                     {locale === 'en' ? 'Phone' : 'Телефон'}
                   </p>
-                  <p className="font-medium">+7 (727) 123-4567</p>
+                  <p className="font-medium">+7-(777)-717-71-72</p>
                 </div>
               </div>
               
