@@ -1,0 +1,64 @@
+{
+  "common": {
+    "languageSwitcher": "Language",
+    "languageEN": "English",
+    "languageRU": "Russian"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "project": "About Project",
+    "contact": "Contact",
+    "news": "News",
+    "gallery": "Gallery"
+  },
+  "home": {
+    "title": "TauRent",
+    "subtitle": "Mobile application for ski and tourist equipment rental",
+    "description": "TauRent is a client mobile application that allows users to book ski and tourist equipment from verified rental stores in Almaty. The application serves as a CRM system for these stores, making the rental process easier and allowing users to quickly find the necessary equipment."
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are a team of enthusiasts who love active recreation and want to make equipment rental as convenient as possible for everyone."
+  },
+  "project": {
+    "title": "About Project",
+    "functionality": "What you can do in the TauRent application:",
+    "features": [
+      "View a list of rental shops (e.g., Skadi, Tobe, Shangy, ShymbulakRent, etc.)",
+      "Select equipment by categories: skis, snowboard, tent, bicycle, sleeping pad, etc.",
+      "Sort stores by reviews — the best offers are displayed first",
+      "Book both individual items and ready-made combo sets (e.g., skis + boots + helmet)",
+      "Pay for the rent in full or make a 20% prepayment",
+      "Receive a unique booking code with order information and a countdown timer until the end of the rental period",
+      "Rate and leave reviews on specific products or combos in each store",
+      "Authorize by name, phone number, and email"
+    ],
+    "navigation": "Navigation in the application:",
+    "nav_items": [
+      "Home (ski icon) — category selection, store list, product selection",
+      "Active bookings (REC icon) — current booking, history, code, and timer",
+      "Profile (person icon) — user data, account logout"
+    ],
+    "future": "Future expansion:",
+    "future_plans": [
+      "Integration with Almaty map for convenient search of the nearest pickup points",
+      "Ability to add product photos via API",
+      "Development of a CRM version for stores with warehouse and order management"
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  },
+  "news": {
+    "title": "News",
+    "readMore": "Read More"
+  },
+  "gallery": {
+    "title": "Gallery"
+  }
+} 
